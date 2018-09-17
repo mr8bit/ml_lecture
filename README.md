@@ -9,4 +9,4 @@ by:[Lambda MAI](https://lambda-it.ru/)<br>
 
 Список пройденных лекций:
 
-1. [Вводная лекция](https://vk.com/lambdamai) 
+1. [Вводная лекция](lectures/1_lecture/lecture.md) 
