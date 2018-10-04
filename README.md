@@ -10,3 +10,4 @@ by:[Lambda MAI](https://lambda-it.ru/)<br>
 Список пройденных лекций:
 
 1. [Вводная лекция](lectures/1_lecture/lecture.md) 
+2. [Линейные модели](lectures/2_lecture/2_lecture_linear_regression.md)
