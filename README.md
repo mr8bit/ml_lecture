@@ -27,7 +27,7 @@ by:[Lambda MAI](https://lambda-it.ru/)<br>
 
 1. [Вводная лекция](lectures/1_lecture/lecture.md) 
 2. [Линейные модели](lectures/2_lecture/2_lecture_linear_regression.md)
-3. [Регуляризация, Нормализация и PCA](lectures/lectures/3_lecture)
-4. [Решающие деревья](lectures/lectures/4_lecture)
+3. [Регуляризация, Нормализация и PCA](lectures/3_lecture)
+4. [Решающие деревья](lectures/4_lecture)
 
 
